@@ -44,12 +44,12 @@ namespace IPMaskingToll.Logic.Classes
                 maskHost = this._networkAddress[netWorkAddress].MaskHosts[host];
             else
             {
-                maskHost =CreateHost(netWorkAddress);
+                maskHost =CreateMaskHost(netWorkAddress);
                 this._networkAddress[netWorkAddress].MaskHosts.Add(host, maskHost.ToString());
             }
             return $"{this._networkAddress[netWorkAddress].MaskNetworkAddress}.{maskHost}";
         }
-        private string CreateHost(string netWorkAddress)
+        private string CreateMaskHost(string netWorkAddress)
         {
             string maskHost = RandomMask().ToString();
             while (this._networkAddress[netWorkAddress].MaskHosts.Values.FirstOrDefault((mask) => maskHost == mask) != null)
