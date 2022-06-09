@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "GUr/4qNlVj3pWfncKaoeq/Cqec4b9lQpWZzcMKCriw+GHIEk1IPeNYlMXta82cCx+qiaVKEmskyiIirxqajtmw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\danie\\source\\repos\\ראיון עבודה\\IPMaskingTool\\IPMaskingTool\\IPMaskingTool.Service\\IPMaskingTool.Service.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.aspnetcore.http.features\\5.0.17\\microsoft.aspnetcore.http.features.5.0.17.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\microsoft.extensions.primitives\\5.0.1\\microsoft.extensions.primitives.5.0.1.nupkg.sha512",
+    "C:\\Users\\danie\\.nuget\\packages\\system.io.pipelines\\5.0.2\\system.io.pipelines.5.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

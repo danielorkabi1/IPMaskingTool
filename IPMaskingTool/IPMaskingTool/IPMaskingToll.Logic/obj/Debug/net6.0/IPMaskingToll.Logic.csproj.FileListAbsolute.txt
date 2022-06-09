@@ -1,0 +1,12 @@
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\bin\Debug\net6.0\IPMaskingToll.Logic.deps.json
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\bin\Debug\net6.0\IPMaskingToll.Logic.dll
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\bin\Debug\net6.0\IPMaskingToll.Logic.pdb
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\IPMaskingToll.Logic.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\IPMaskingToll.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\IPMaskingToll.Logic.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\IPMaskingToll.Logic.AssemblyInfo.cs
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\IPMaskingToll.Logic.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\IPMaskingToll.Logic.dll
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\refint\IPMaskingToll.Logic.dll
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\IPMaskingToll.Logic.pdb
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingToll.Logic\obj\Debug\net6.0\ref\IPMaskingToll.Logic.dll

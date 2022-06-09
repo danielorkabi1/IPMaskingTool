@@ -1,0 +1,15 @@
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\bin\Debug\net6.0\IPMaskingTool.Service.deps.json
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\bin\Debug\net6.0\IPMaskingTool.Service.dll
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\bin\Debug\net6.0\IPMaskingTool.Service.pdb
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\bin\Debug\net6.0\IPMaskingToll.Logic.dll
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\bin\Debug\net6.0\IPMaskingToll.Logic.pdb
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.csproj.AssemblyReference.cache
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.AssemblyInfoInputs.cache
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.AssemblyInfo.cs
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.csproj.CoreCompileInputs.cache
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.csproj.CopyComplete
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.dll
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\refint\IPMaskingTool.Service.dll
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\IPMaskingTool.Service.pdb
+C:\Users\danie\source\repos\ראיון עבודה\IPMaskingTool\IPMaskingTool\IPMaskingTool.Service\obj\Debug\net6.0\ref\IPMaskingTool.Service.dll

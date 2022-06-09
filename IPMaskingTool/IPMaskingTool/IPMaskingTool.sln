@@ -1,0 +1,43 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32228.430
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPMaskingTool.Console", "IPMaskingTool.Console\IPMaskingTool.Console.csproj", "{DF155DF6-183F-48FD-8520-7014DDD3017F}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "IPMaskingToll.Logic", "IPMaskingToll.Logic\IPMaskingToll.Logic.csproj", "{06EE23D3-A3AE-4816-91E4-73EFF268A3C0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPMaskingTool.WebApi", "IPMaskingTool.WebApi\IPMaskingTool.WebApi.csproj", "{78B352FF-15C9-4AAA-B6A1-8DE92CE597F1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "IPMaskingTool.Service", "IPMaskingTool.Service\IPMaskingTool.Service.csproj", "{CE53C516-320B-458B-BF72-420916DD8153}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{DF155DF6-183F-48FD-8520-7014DDD3017F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DF155DF6-183F-48FD-8520-7014DDD3017F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DF155DF6-183F-48FD-8520-7014DDD3017F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DF155DF6-183F-48FD-8520-7014DDD3017F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{06EE23D3-A3AE-4816-91E4-73EFF268A3C0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{06EE23D3-A3AE-4816-91E4-73EFF268A3C0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{06EE23D3-A3AE-4816-91E4-73EFF268A3C0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{06EE23D3-A3AE-4816-91E4-73EFF268A3C0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{78B352FF-15C9-4AAA-B6A1-8DE92CE597F1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78B352FF-15C9-4AAA-B6A1-8DE92CE597F1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{78B352FF-15C9-4AAA-B6A1-8DE92CE597F1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{78B352FF-15C9-4AAA-B6A1-8DE92CE597F1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CE53C516-320B-458B-BF72-420916DD8153}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CE53C516-320B-458B-BF72-420916DD8153}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CE53C516-320B-458B-BF72-420916DD8153}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CE53C516-320B-458B-BF72-420916DD8153}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4BE56C70-8274-4D67-9D00-5237B507868D}
+	EndGlobalSection
+EndGlobal

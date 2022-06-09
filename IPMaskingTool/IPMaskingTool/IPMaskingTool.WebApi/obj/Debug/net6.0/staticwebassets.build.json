@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "1armbTQEtthMVUAf5DzJNzkawoP60QzbQrxe18FD3W0=",
+  "Source": "IPMaskingTool.WebApi",
+  "BasePath": "_content/IPMaskingTool.WebApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
